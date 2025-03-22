@@ -32,3 +32,5 @@ Once all the scripts are done:
   the book is read offline or on docs.rust-lang.org
 - Use markdown links and keep in mind that they will be changed into `text at
   *url*` in print, so word them in a way that it reads well in that format
+
+the book is very good for me
